@@ -1,4 +1,4 @@
-# VC_Dimension
+# VC-Dimension
 Latex slides on the topic Vapnik Chervonenkis Dimension for Mathematical Data Science Seminar
 
 The slides are created based on Chapter 2 of the book "Mathematical Pictures at Data Science Exhibition" by Simon Foucart.
